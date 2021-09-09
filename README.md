@@ -1,1 +1,2 @@
 # thurston-alswager
+# repo setup
