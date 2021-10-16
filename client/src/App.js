@@ -3,7 +3,7 @@ import './App.css';
 import axios from 'axios';
 
 class App extends React.Component {
-  sate = {
+  state = {
     data: null
   }
 
@@ -25,6 +25,7 @@ class App extends React.Component {
         <header className="App-header">
           GoodThings
         </header>
+        {this.state.data}
       </div>
     );
   }
