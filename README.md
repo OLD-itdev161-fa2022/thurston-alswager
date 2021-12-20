@@ -1,2 +1,1 @@
-# thurston-alswager
-# repo setup
+itdev161-assignments-v2
